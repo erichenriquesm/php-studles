@@ -1,8 +1,8 @@
 <?php
 include "../connection.php";
 
-$name = "Miguel";
-$email = "miguel@gmail.com";
+$name = "Erick";
+$email = "erick@gmail.com";
 $cellphone = "+55999999999";
 
 // $stmt = $pdo->prepare("INSERT INTO users (name, email, cellphone) VALUES (:name, :email, :cellphone)");
